@@ -26,7 +26,7 @@ I chose MSSQL as a primary database for Smllr and ShareBin because I planned to 
   isBeingUsed : Boolean
 ```
 
-- #### SmllR Model
+- #### ShortnR Model
 ```
 {
   shortenUrlPart : String ,
