@@ -16,7 +16,7 @@ I chose MSSQL as a primary database for Smllr and ShareBin because I planned to 
 
 
 ### System Design Diagram :
-![Sys-Design](./OtherStuff/SystemDesign.jpeg)
+![Sys-Design](./ssyd.png)
 
 ## Models :
 
